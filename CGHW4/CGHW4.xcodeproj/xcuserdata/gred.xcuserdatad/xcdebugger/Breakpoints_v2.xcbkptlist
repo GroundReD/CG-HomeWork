@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CGHW4/WaveFrontOBJ.cpp"
+            timestampString = "516523538.432651"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "WaveFrontOBJ::WaveFrontOBJ(char *filename)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CGHW4/WaveFrontOBJ.cpp"
+            timestampString = "516533673.891357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "WaveFrontOBJ::WaveFrontOBJ(char *filename)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WaveFrontOBJ::WaveFrontOBJ(char*)"
+                  moduleName = "CGHW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gred/Desktop/CGHW4/CGHW4/WaveFrontOBJ.cpp"
+                  timestampString = "516533673.895467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "2750">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WaveFrontOBJ::WaveFrontOBJ(char*)"
+                  moduleName = "CGHW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gred/Desktop/CGHW4/CGHW4/WaveFrontOBJ.cpp"
+                  timestampString = "516533673.898941"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "2801">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WaveFrontOBJ::WaveFrontOBJ(char*)"
+                  moduleName = "CGHW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gred/Desktop/CGHW4/CGHW4/WaveFrontOBJ.cpp"
+                  timestampString = "516533673.900895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
